@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/LUCFOXWO/Documents/GitHub/Intrusive-Thoughts-LameJam/PsyPI/Content/Widgets/Screens/Inspection/Elements/Base_Lane.uasset",
+				"C:/Users/LUCFOXWO/Documents/GitHub/Intrusive-Thoughts-LameJam/PsyPI/Content/Widgets/Screens/Inspection/Elements/SceneDisplay.uasset",
+				"C:/Users/LUCFOXWO/Documents/GitHub/Intrusive-Thoughts-LameJam/PsyPI/Content/Levels/Title/TitleLevel.umap",
 				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/GameModes/PsyPI_GameMode.uasset",
 				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Levels/Title/TitleLevel.umap",
