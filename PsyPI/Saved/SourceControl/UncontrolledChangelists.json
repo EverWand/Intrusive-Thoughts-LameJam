@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/GameModes/PsyPI_GameMode.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Levels/Title/TitleLevel.umap",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Levels/Title/TitleScreenWidget.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Widgets/CustomElements/Buttons/OptionButton.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Widgets/CustomElements/Buttons/MenuBtn.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Levels/Game/StolenPainting/StolenPainting.umap",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Widgets/Screens/CulpritScreen.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Widgets/CustomElements/Buttons/CulpritButton.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Widgets/Screens/InspectionScreen.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Levels/Results/ResultScreen.umap",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Levels/Results/ResultLevel.umap",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Levels/Results/ResultScreen.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/GameModes/MouseController.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Widgets/Screens/Inspection/InspectionScreen.uasset",
+				"C:/Users/LUCFOXWO/Documents/Unreal Projects/PsyPI/Content/Widgets/CustomElements/Buttons/Culprits/CulpritButton.uasset"
+			]
+		}
+	]
+}
